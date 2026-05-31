@@ -60,3 +60,20 @@ header {
     border-radius: 10%;
 
 }
+
+.hero {
+    text-align: center;
+    margin: 50px 0;
+}
+
+.hero h1 {
+    font-size: 70px;
+    line-height: 1.1;
+    font-weight: bold;
+}
+
+.hero h2 {
+    font-size: 80px;
+    line-height: 1.1;
+    font-weight: bold;
+}
