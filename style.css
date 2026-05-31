@@ -113,3 +113,17 @@ textarea {
     display: flex;
     gap: 25px;
 }
+
+input {
+    width: 20px;
+    cursor: pointer;
+    background-color: var(--bordes-sut);
+    border: none;
+    margin: 5px;
+}
+
+label {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+}
