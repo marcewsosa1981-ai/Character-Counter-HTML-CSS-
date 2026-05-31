@@ -122,7 +122,7 @@ input {
     width: 20px;
     cursor: pointer;
     background-color: var(--bordes-sut);
-    border: none;
+    border: 1px solid var(--text-secund);
     margin: 5px;
 }
 
