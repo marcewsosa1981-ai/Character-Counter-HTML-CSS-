@@ -21,3 +21,28 @@
     --progress: #D19BFF;
     --bordes-sut: #2A2D3A;
 }
+
+
+body {
+    background-color: var(--bg-card);
+    font-family: 'Space Grotesk', sans-serif;
+    color: var(--text-princ);
+    display: flex;
+    justify-content: center;
+    padding: 30px;
+}
+
+.container {
+    width: 900px;
+    background: var(--bg-princ);
+    color: var(--text-princ);
+
+}
+
+
+
+header {
+    display: flex;
+    justify-content: space-between;
+
+}
