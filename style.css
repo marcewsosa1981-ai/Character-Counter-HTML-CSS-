@@ -2,4 +2,22 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
+    font-family: 'Space Grotesk',
+        sans-serif;
+}
+
+
+:root {
+    --bg-princ: #010310;
+    --bg-card: #1C1F2A;
+
+    --text-princ: #F2F2F7;
+    --text-secund: #B4B7C9;
+
+    --card-violet: #8245cd;
+    --card-orange: #FFB21E;
+    --card-coral: #FF8A65;
+
+    --progress: #D19BFF;
+    --bordes-sut: #2A2D3A;
 }
