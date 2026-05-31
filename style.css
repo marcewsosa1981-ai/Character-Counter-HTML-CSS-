@@ -168,3 +168,30 @@ label {
 .coral {
     background: var(--card-coral);
 }
+
+.density h2 {
+    margin-bottom: 30px;
+    font-size: 40px;
+    font-family: 'Space Grotesk'
+}
+
+.density-item {
+    display: flex;
+    align-items: center;
+    gap: 15px;
+    margin-bottom: 20px;
+}
+
+.density-item span {
+    width: 20px;
+    font-size: 25px;
+    color: var(--text-secund);
+}
+
+.bar {
+    flex: 10;
+    height: 12px;
+    background: #2c2c44;
+    border-radius: 20px;
+
+}
