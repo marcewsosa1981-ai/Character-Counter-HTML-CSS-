@@ -44,4 +44,3 @@ La aplicación permite visualizar un área de texto donde el usuario puede escri
 ## Autor
 
 Marcelo Walter Sosa
-
