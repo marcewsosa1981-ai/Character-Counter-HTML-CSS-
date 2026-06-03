@@ -99,7 +99,7 @@ textarea {
     color: var(--text-princ);
     font-size: 21px;
     resize: none;
-
+    box-shadow: 4px 4px 5px 0px var(--progress)
 }
 
 
@@ -260,6 +260,10 @@ label {
     align-items: center;
 
 
+}
+
+.cards div:hover {
+    transform: scale(1.1);
 }
 
 

@@ -39,7 +39,7 @@ La aplicación permite visualizar un área de texto donde el usuario puede escri
 - Practicar la estructura semántica en HTML.
 - Aplicar estilos avanzados con CSS.
 - Trabajar con Flexbox y Grid.
-- Replicar fielmente un diseño proporcionado mediante una imagen de referencia.
+- Replicar fielmente el diseño proporcionado mediante una imagen de referencia.
 
 ## Autor
 
